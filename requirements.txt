@@ -1,0 +1,6 @@
+python-dotenv
+requests
+google-generativeai
+absl-py
+openai
+google.generativeai
